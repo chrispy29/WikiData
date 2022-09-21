@@ -1,0 +1,33 @@
+C:\Users\30053736\Source\Repos\WikiData\bin\Debug\WikiData.exe.config
+C:\Users\30053736\Source\Repos\WikiData\bin\Debug\WikiData.exe
+C:\Users\30053736\Source\Repos\WikiData\bin\Debug\WikiData.pdb
+C:\Users\30053736\Source\Repos\WikiData\obj\Debug\WikiData.csproj.AssemblyReference.cache
+C:\Users\30053736\Source\Repos\WikiData\obj\Debug\WikiData.csproj.SuggestedBindingRedirects.cache
+C:\Users\30053736\Source\Repos\WikiData\obj\Debug\WikiData.FormWikiData.resources
+C:\Users\30053736\Source\Repos\WikiData\obj\Debug\WikiData.Properties.Resources.resources
+C:\Users\30053736\Source\Repos\WikiData\obj\Debug\WikiData.csproj.GenerateResource.cache
+C:\Users\30053736\Source\Repos\WikiData\obj\Debug\WikiData.csproj.CoreCompileInputs.cache
+C:\Users\30053736\Source\Repos\WikiData\obj\Debug\WikiData.exe
+C:\Users\30053736\Source\Repos\WikiData\obj\Debug\WikiData.pdb
+D:\C Sharp 2\WikiData\obj\Debug\WikiData.csproj.AssemblyReference.cache
+D:\C Sharp 2\WikiData\obj\Debug\WikiData.csproj.SuggestedBindingRedirects.cache
+D:\C Sharp 2\WikiData\obj\Debug\WikiData.FormWikiData.resources
+D:\C Sharp 2\WikiData\obj\Debug\WikiData.Properties.Resources.resources
+D:\C Sharp 2\WikiData\obj\Debug\WikiData.csproj.GenerateResource.cache
+D:\C Sharp 2\WikiData\obj\Debug\WikiData.csproj.CoreCompileInputs.cache
+D:\C Sharp 2\WikiData\obj\Debug\WikiData.exe
+D:\C Sharp 2\WikiData\obj\Debug\WikiData.pdb
+D:\C Sharp 2\WikiData\bin\Debug\WikiData.exe.config
+D:\C Sharp 2\WikiData\bin\Debug\WikiData.exe
+D:\C Sharp 2\WikiData\bin\Debug\WikiData.pdb
+E:\C Sharp 2\WikiData\bin\Debug\WikiData.exe.config
+E:\C Sharp 2\WikiData\bin\Debug\WikiData.exe
+E:\C Sharp 2\WikiData\bin\Debug\WikiData.pdb
+E:\C Sharp 2\WikiData\obj\Debug\WikiData.csproj.AssemblyReference.cache
+E:\C Sharp 2\WikiData\obj\Debug\WikiData.csproj.SuggestedBindingRedirects.cache
+E:\C Sharp 2\WikiData\obj\Debug\WikiData.FormWikiData.resources
+E:\C Sharp 2\WikiData\obj\Debug\WikiData.Properties.Resources.resources
+E:\C Sharp 2\WikiData\obj\Debug\WikiData.csproj.GenerateResource.cache
+E:\C Sharp 2\WikiData\obj\Debug\WikiData.csproj.CoreCompileInputs.cache
+E:\C Sharp 2\WikiData\obj\Debug\WikiData.exe
+E:\C Sharp 2\WikiData\obj\Debug\WikiData.pdb
